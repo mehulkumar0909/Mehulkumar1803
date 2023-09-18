@@ -52,19 +52,18 @@ Description:
 
 ### DAMAGE DETECTION OF UNDERGROUND USING PCA
 
-A Project under Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
+A novel research project under Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
 
 
-📅 Duration:  Aug '23-Present
+📅 Duration:  June 23-Present
 
 Description:
 
-- Efficient extraction and manipulation of Large-Scale sensor data exceeding 1GB utilizing Microsoft Excel and MATLAB.
-- Isolating and comparing the dominant components of both impaired and undamaged signals using PCA.
-- Leveraging Principal Component Analysis (PCA) effectively and precisely identifies pipeline damage
-locations by analyzing multidimensional sensor data.
--  Principle Component Analysis(PCA), Signal Processing, Matlab, Graphical Analysis, Teamwork, Microsoft Excel.
-  --  The final results quantify damage in the pipe based on the Eigen Variance Index (EVI), predict the exact location of damage, works excellently under an SNR of 2. The performance of the model is shown below. 
+- Worked on a project that addressed a critical issue in infrastructure management – fault detection in underground pipeline systems.
+- Extracted vital insights from a large dataset containing voltage vs. time profiles of both intact and damaged pipes.
+- Applyed PCA and pioneering graphical analysis methods, we not only detected faults but also accurately determined the location and extent of leaks.
+- Principle Component Analysis(PCA), Signal Processing, Matlab, Graphical Analysis, Teamwork, Microsoft Excel.
+- The final results quantify damage in the pipe based on the EigenVariance Index (EVI), predict the exact location of damage, also works efficiently with SNR values below 2, proving its robustness to noise.
 
 
 <table>

@@ -17,20 +17,19 @@ My name is Bhargav Pratim Nath, and I am a  junior undergrad at the Indian Insti
 
 ## Projects
 
-### 	STRUCTURAL HEALTH MONITORING USING REDUCED-ORDER VARIATIONAL MODE DECOMPOSITION (RVMD): 
+### 	Smooth Orthogonal Decomposition for Advanced Structural Health Monitoring: 
 
-Engaged in an exploratory project guided by Associate Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
+Worked as an exploratory project student under the guidance of Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
 
 
-📅 Duration:  July'23-Sept’23
+📅 Duration:  January 23- June 23
 
 Description:
 
-- Studied the suitability of RVMD on the acceleration response of 5DOF structure for health monitoring.
-- Optimized parameters to get the physical modes' shapes and natural frequencies.
-- The final model developed reconstructs the modal signal for the 5DOF system.
--- The raw, reconstructed, and modal signals' power spectrum are shown along with their mode shapes and responses. 
-
+- Developed an algorithm using Smooth Orthogonal Decomposition to identify modes of dynamic structures.
+- This approach enabled the detection of structural damage and pinpointed its location with remarkable accuracy.
+- Worked on a 5 DOF system and modal analysis of which helped in the detection of damage.
+-- This research cultivated a profound appreciation for structural health monitoring, highlighting the synergy between computational techniques and engineering principles
 
 <table>
   <tr>

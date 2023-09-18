@@ -50,7 +50,7 @@ Description:
 
 ---
 
-### DAMAGE DETECTION OF UNDERGROUND USING PCA
+### DAMAGE DETECTION OF BURIED PIPELINE USING PCA
 
 A novel research project under Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
 
@@ -92,14 +92,14 @@ Description:
 ## Skills
 
 
-- 🛠 Autocad, QGIS
+- 🛠 Autocad, QGIS, SNAP
 - 🔬 Civil Engineering
-- 🤖 Machine Learning and Signal Processing
-- 💻 Programming (MATLAB, Python,C++, LaTex)
+- 🤖 Machine Learning, Signal Processing, Mathematics, Data Analysis.
+- 💻 Programming (MATLAB, Python, R, LaTex)
 
 ## Contact Me
 
-📧 Email: [bhargav.pratimnath.civ21@itbhu.ac.in](mailto:bhargav.pratimnath.civ21@itbhu.ac.in)
-🔗 LinkedIn: [bhargavnath9436](https://www.linkedin.com/in/bhargav-nath-7a6a31222/)
-📞 Phone: [+91-9954466371](tel:+919954466371)
+📧 Email: [lmehulkumar.rajkumar.civ21@itbhu.ac.in](mailto:lmehulkumar.rajkumar.civ21@itbhu.ac.in)
+🔗 LinkedIn: [Mehulkumar Lakhadive](https://www.linkedin.com/in/mehulkumar-lakhadive-018758247/)
+📞 Phone: [+91-7219082590](tel:+917219082590)
 

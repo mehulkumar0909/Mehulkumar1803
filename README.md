@@ -6,7 +6,7 @@
 ## About Me
 
 Myself Mehulkumar Rajkumar Lakhadive (just call me Mehul), I am a dedicated and passionate Civil Engineering student pursuing an Integrated Dual Degree from IIT BHU. In my journey, I have actively engaged in research and projects that focus on enhancing structural analysis and health monitoring techniques. Through these experiences, I have not only honed my technical skills but also developed a deep fascination for the field.
-In extracurricular I spent my time on the ground as I am an athlete(400m sprint), I also sing and listen to different genres of music, Pop and Indie Pop being my favourtie. 
+In extracurricular activites I spent my time on the ground as I am an athlete(400m sprint), I also sing and listen to different genres of music, Pop and Indie Pop being my favourtie. I am also new to gaming.
 </p>
 </div>
  

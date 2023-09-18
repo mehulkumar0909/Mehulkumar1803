@@ -29,7 +29,7 @@ Description:
 - Developed an algorithm using Smooth Orthogonal Decomposition to identify modes of dynamic structures.
 - This approach enabled the detection of structural damage and pinpointed its location with remarkable accuracy.
 - Worked on a 5 DOF system and modal analysis of which helped in the detection of damage.
--- This research cultivated a profound appreciation for structural health monitoring, highlighting the synergy between computational techniques and engineering principles
+- This research cultivated a profound appreciation for structural health monitoring, highlighting the synergy between computational techniques and engineering principles
 
 <table>
   <tr>

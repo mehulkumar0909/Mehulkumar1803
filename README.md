@@ -5,11 +5,8 @@
 
 ## About Me
 
-"Though we may be but players on life's grand stage, remember that even amidst tragedy, we possess the power to script our destinies with acts of courage and determination." <br>
--- William Shakespeare
-
-
-My name is Bhargav Pratim Nath, and I am a  junior undergrad at the Indian Institute of Technology (IIT BHU), majoring in Civil Engineering and Signals and Systems. Utilizing statistical methods to assess structural health is what I fell for. Thankfully, life didn't end here; some oil painting on a lovely summer Sunday and a few dark novels in my leisure time are what I live for.
+Myself Mehulkumar Rajkumar Lakhadive (just call me Mehul), I am a dedicated and passionate Civil Engineering student pursuing an Integrated Dual Degree from IIT BHU. In my journey, I have actively engaged in research and projects that focus on enhancing structural analysis and health monitoring techniques. Through these experiences, I have not only honed my technical skills but also developed a deep fascination for the field.
+In extracurricular I spent my time on the ground as I am an athlete(400m sprint), I also sing and listen to different genres of music, Pop and Indie Pop being my favourtie. 
 </p>
 </div>
  

@@ -1,5 +1,5 @@
 <div align="left">
-<img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/f39fe085-b613-41e4-a49a-adac6edd9236" alt="Bhargav Pratim Nath" width="300" height="300" style = "float: right" align="right">
+<img src="" alt="" width="300" height="300" style = "float: right" align="right">
   <p>
 
 

@@ -31,7 +31,7 @@ Description:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/1bc1e319-47aa-4d60-8cdf-a7c6e7370166" alt="Mode Shapes" width="500">
+      <img src="https://user-images.githubusercontent.com/143208429/269191860-2ee11302-fb36-4042-903d-59840a65a46f.jpg" alt="Acceleration FFT" width="500">
       <p>Mode shapes comparison</p>
     </td>
     <td align="center">

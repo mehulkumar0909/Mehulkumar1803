@@ -79,11 +79,7 @@ Description:
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/143208429/269193177-882f10c1-14de-4ea2-94ca-dcbbc3022f0f.jpg" alt="Correlation" width="500">
-      <p>Interpretation of Damage Location</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/6e2e2831-4c3f-4a38-9d18-978da8911717" alt="CAD" width="500">
-      <p>Interpretation of Damage Location</p>
+      <p>Correlation of signals principal component(PC) with noise and without noise.</p>
     </td>
   </tr>
 </table>

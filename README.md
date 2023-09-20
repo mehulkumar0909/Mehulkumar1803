@@ -78,7 +78,7 @@ Description:
       <p>Interpretation of Damage Location</p>
     </td>
     <td align="center">
-      <img src="" alt="CAD" width="500">
+      <img src="https://user-images.githubusercontent.com/143208429/269193177-882f10c1-14de-4ea2-94ca-dcbbc3022f0f.jpg" alt="Correlation" width="500">
       <p>Interpretation of Damage Location</p>
     </td>
     <td align="center">

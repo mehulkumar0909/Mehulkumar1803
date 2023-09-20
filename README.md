@@ -77,6 +77,14 @@ Description:
       <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/6e2e2831-4c3f-4a38-9d18-978da8911717" alt="CAD" width="500">
       <p>Interpretation of Damage Location</p>
     </td>
+    <td align="center">
+      <img src="" alt="CAD" width="500">
+      <p>Interpretation of Damage Location</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/6e2e2831-4c3f-4a38-9d18-978da8911717" alt="CAD" width="500">
+      <p>Interpretation of Damage Location</p>
+    </td>
   </tr>
 </table>
 

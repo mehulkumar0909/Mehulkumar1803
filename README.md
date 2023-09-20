@@ -39,7 +39,7 @@ Description:
       <p>Power spectrum comparison</p>
     </td>
      <td align="center">
-      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/3fe88980-5671-4d2a-b53d-037d644e652f" alt="Raw and reconstructed response" width="500">
+      <img src="https://user-images.githubusercontent.com/143208429/269192486-e6653a10-c93f-46c8-9dab-472802398d7f.jpg" alt="Delta phi" width="500">
       <p>Raw and reconstructed response comparison</p>
     </td>
   </tr>

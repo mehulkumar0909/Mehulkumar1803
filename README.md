@@ -35,7 +35,7 @@ Description:
       <p>Mode shapes comparison</p>
     </td>
     <td align="center">
-      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/62e5e6d7-90f6-4807-8bb2-45ce6fa6ac98" alt="Power spectrum" width="500">
+      <img src="https://user-images.githubusercontent.com/143208429/269192519-04159669-5634-41cb-a6a3-63ac5ccf31a9.jpg" alt="SOM" width="500">
       <p>Power spectrum comparison</p>
     </td>
      <td align="center">

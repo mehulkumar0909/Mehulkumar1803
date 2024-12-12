@@ -93,8 +93,8 @@ Description:
 ## Skills
 
 
-- 🛠 Autocad, QGIS, SNAP
-- 🔬 Civil Engineering
+- 🛠 Autocad, QGIS, Ansys, Solidworks
+- 🔬 Civil Engineering, Artificial Intelligence
 - 🤖 Machine Learning, Signal Processing, Mathematics, Data Analysis.
 - 💻 Programming (MATLAB, Python, R, LaTex)
 

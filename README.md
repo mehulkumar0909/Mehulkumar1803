@@ -1,106 +1,171 @@
-<div align="left">
-<img src="https://user-images.githubusercontent.com/143208429/269190185-c9bd3b10-954d-45e9-a511-eb602d3122a6.jpg" alt="Lakhadive Mehulkumar R" width="300" height="300" style = "float: right" align="right">
-  <p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/143208429/269190185-c9bd3b10-954d-45e9-a511-eb602d3122a6.jpg" width="220" style="border-radius:50%" />
+</div>
 
+# Lakhadive Mehulkumar Rajkumar
+### Civil Engineer • Structural Health Monitoring • Modal Analysis • Decomposition Algorithms • Machine Learning
+
+---
 
 ## About Me
 
-Myself Lakhadive Mehulkumar Rajkumar (just call me Mehul), I am a dedicated and passionate Civil Engineering student pursuing an Integrated Dual Degree from IIT BHU. In my journey, I have actively engaged in research and projects that focus on enhancing structural analysis and health monitoring techniques. Through these experiences, I have not only honed my technical skills but also developed a deep fascination for the field.
-In extracurricular activites I spent my time on the ground as I am an athlete(400m sprint), I also sing and listen to different genres of music, Pop and Indie Pop being my favourtie. I am also new to gaming.
-</p>
-</div>
- 
+I am an Integrated Dual Degree student in Civil Engineering at IIT (BHU), Varanasi, with a strong research focus on **Structural Health Monitoring (SHM), Operational Modal Analysis (OMA), and Multivariate Signal Decomposition**.
 
+My work combines **engineering mechanics, signal processing, and machine learning** to develop intelligent systems for infrastructure monitoring and damage detection.
 
-## Projects
+Research Interests:
 
-### 	Smooth Orthogonal Decomposition for Advanced Structural Health Monitoring: 
+- Structural Health Monitoring (SHM)
+- Operational Modal Analysis (OMA)
+- Multivariate Variational Mode Decomposition (MVMD)
+- Fast Adaptive Multivariate Decomposition (FAME–SSA)
+- Damage Detection & System Identification
+- Physics-Informed Neural Networks (PINNs)
 
-Worked as an exploratory project student under the guidance of Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
+Outside academics: 400m sprinter • music lover • exploring gaming & tech
 
+---
 
-📅 Duration:  January 23- June 23
+## Research & Code Focus
 
-Description:
+This GitHub serves as a repository of:
 
-- Developed an algorithm using Smooth Orthogonal Decomposition to identify modes of dynamic structures.
-- This approach enabled the detection of structural damage and pinpointed its location with remarkable accuracy.
-- Worked on a 5 DOF system and modal analysis of which helped in the detection of damage.
-- This research cultivated a profound appreciation for structural health monitoring, highlighting the synergy between computational techniques and engineering principles
+✔ decomposition algorithms  
+✔ modal identification frameworks  
+✔ structural health monitoring toolkits  
+✔ signal processing & ML pipelines  
+✔ reproducible research implementations  
+
+---
+
+## Featured Research Projects
+
+---
+
+### Smooth Orthogonal Decomposition for Structural Health Monitoring
+
+**Supervisor:** Dr. Basuraj Bhowmik  
+📅 Jan 2023 – June 2023
+
+**Overview**
+
+Developed Smooth Orthogonal Decomposition (SOD) based algorithms to identify structural dynamic modes and detect damage in multi-degree-of-freedom systems.
+
+**Key Contributions**
+
+- Implemented SOD for modal identification  
+- Analyzed 5-DOF structural system responses  
+- Deteced damage through mode shape variation  
+- Reconstructed structural responses for validation  
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/143208429/269191860-2ee11302-fb36-4042-903d-59840a65a46f.jpg" alt="Acceleration FFT" width="500">
-      <p>Mode shapes comparison</p>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/143208429/269192519-04159669-5634-41cb-a6a3-63ac5ccf31a9.jpg" alt="SOM" width="500">
-      <p>Power spectrum comparison</p>
-    </td>
-     <td align="center">
-      <img src="https://user-images.githubusercontent.com/143208429/269192486-e6653a10-c93f-46c8-9dab-472802398d7f.jpg" alt="Delta phi" width="500">
-      <p>Raw and reconstructed response comparison</p>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/143208429/269191860-2ee11302-fb36-4042-903d-59840a65a46f.jpg" width="320">
+<p>Mode shapes comparison</p>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/143208429/269192519-04159669-5634-41cb-a6a3-63ac5ccf31a9.jpg" width="320">
+<p>Power spectrum comparison</p>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/143208429/269192486-e6653a10-c93f-46c8-9dab-472802398d7f.jpg" width="320">
+<p>Response reconstruction</p>
+</td>
+</tr>
 </table>
 
 ---
 
-### DAMAGE DETECTION OF BURIED PIPELINE USING PCA
+### Damage Detection in Buried Pipelines using PCA
 
-A novel research project under Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
+**Supervisor:** Dr. Basuraj Bhowmik  
+📅 June 2023 – August 2024
 
+**Overview**
 
-📅 Duration:  June 23-Present
+Developed a PCA-based signal analysis framework for fault detection and localization in underground pipelines using piezoelectric sensor data.
 
-Description:
+**Key Contributions**
 
-- Worked on a project that addressed a critical issue in infrastructure management – fault detection in underground pipeline systems.
-- Extracted vital insights from a large dataset containing voltage vs. time profiles of both intact and damaged pipes.
-- Applyed PCA and pioneering graphical analysis methods, we not only detected faults but also accurately determined the location and extent of leaks.
-- Principle Component Analysis(PCA), Signal Processing, Matlab, Graphical Analysis, Teamwork, Microsoft Excel.
-- The final results quantify damage in the pipe based on the EigenVariance Index (EVI), predict the exact location of damage, also works efficiently with SNR values below 2, proving its robustness to noise.
-
+- Processed voltage-time datasets of intact vs damaged pipelines  
+- Applied PCA for feature extraction & noise robustness  
+- Introduced EigenVariance Index (EVI) for damage quantification  
+- Achieved accurate leak detection even at **SNR < 2**  
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/f9412375-dbb9-4f75-90cb-d57051b2c952" alt="CAD" width="500">
-      <p>Damage Detection and its quantization</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/86ff289b-57e8-4d30-8290-5d6859b39e02" alt="Mesh" width="500">
-      <p>Comparison of piezoelectric data at different flow rates</p>
-    </td>
-     <td align="center">
-      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/6e2e2831-4c3f-4a38-9d18-978da8911717" alt="CAD" width="500">
-      <p>Interpretation of Damage Location</p>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/143208429/269193177-882f10c1-14de-4ea2-94ca-dcbbc3022f0f.jpg" alt="Correlation" width="500">
-      <p>Correlation of signals principal component(PC) with noise and without noise.</p>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/f9412375-dbb9-4f75-90cb-d57051b2c952" width="240">
+<p>Damage quantification</p>
+</td>
+<td align="center">
+<img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/86ff289b-57e8-4d30-8290-5d6859b39e02" width="240">
+<p>Flow rate comparison</p>
+</td>
+<td align="center">
+<img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/6e2e2831-4c3f-4a38-9d18-978da8911717" width="240">
+<p>Damage localization</p>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/143208429/269193177-882f10c1-14de-4ea2-94ca-dcbbc3022f0f.jpg" width="240">
+<p>Noise robustness</p>
+</td>
+</tr>
 </table>
 
 ---
 
+## Publications
+
+### Journal Articles
+
+- **FAME–SSA: A Fast Adaptive Multivariate Decomposition Method for Unsupervised Damage Detection in Built Infrastructures**  
+  *Journal of Sound and Vibration*, 2026  
+
+- **Robust Structural Modal Identification using Multivariate Variational Mode Decomposition**  
+  *Journal of Civil Structural Health Monitoring*, 2025  
 
 ---
 
+### Conference Papers
 
-## Skills
+- Addressing Mode-Mixing Challenges in Structural Health Monitoring  
+  *IOMAC 2025*
 
+- Reviving the I-40 Structural Deficit Paradigm Under Traffic Loads  
+  *IOMAC 2025*
 
-- 🛠 Autocad, QGIS, Ansys, Solidworks
-- 🔬 Civil Engineering, Artificial Intelligence
-- 🤖 Machine Learning, Signal Processing, Mathematics, Data Analysis.
-- 💻 Programming (MATLAB, Python, R, LaTex)
+---
 
-## Contact Me
+### Conference Abstract
 
-📧 Email: [lmehulkumar.rajkumar.civ21@itbhu.ac.in](mailto:lmehulkumar.rajkumar.civ21@itbhu.ac.in)
-🔗 LinkedIn: [Mehulkumar Lakhadive](https://www.linkedin.com/in/mehulkumar-lakhadive-018758247/)
-📞 Phone: [+91-7219082590](tel:+917219082590)
+- Estimation of Lateral River Aquifer Exchanges with Physics-Informed Neural Networks  
+  *EGU General Assembly 2024*
 
+---
+
+## 🛠 Technical Skills
+
+### Engineering & Simulation
+AutoCAD • QGIS • ANSYS • SolidWorks  
+
+### Research & Analysis
+Structural Dynamics • SHM • Signal Processing • Modal Analysis  
+
+### Machine Learning & Data Science
+Machine Learning • Neural Networks • Data Analysis • Statistical Modeling  
+
+### Programming
+MATLAB • Python • R • LaTeX  
+
+---
+
+## Connect With Me
+
+**Email:** lmehulkumar.rajkumar.civ21@itbhu.ac.in  
+**LinkedIn:** https://www.linkedin.com/in/mehulkumar-lakhadive-018758247/  
+
+---
+
+*Building intelligent infrastructure monitoring systems through data, physics, and algorithms.*

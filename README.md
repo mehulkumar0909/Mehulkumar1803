@@ -87,7 +87,7 @@ MATLAB • Python • R • LaTeX
 
 **Email:** lmehulkumar.rajkumar.civ21@itbhu.ac.in  
 **LinkedIn:** https://www.linkedin.com/in/mehulkumar-lakhadive-018758247
-**Google Scholar:** https://scholar.google.com/citations?user=1BenYQIAAAAJ&hl=en/ 
+**Google Scholar:** https://scholar.google.com/citations?user=1BenYQIAAAAJ&hl=en / 
 
 ---
 
